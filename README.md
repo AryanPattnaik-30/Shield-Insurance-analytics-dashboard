@@ -55,7 +55,7 @@ The dashboard provides insights into revenue trends, customer growth, sales chan
 
 
 ## 🎥 Presentation
-[https://www.linkedin.com/posts/aryan-pattnaik-81362926a_codebasicsvirtualinternship-powerbi-dataanalytics-activity-7447499842777423872-5dYx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHxy08BHNBze5nfN5Zo2SRbEl9X8-RCbhI]
+[https://youtu.be/QXkLVi4ScOc]
 
 
 
